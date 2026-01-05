@@ -15,7 +15,7 @@ Database MySQL,
 Validation Bean Validation (JSR-380),
 API Documentation Swagger (OpenAPI 3),
 Build Tool Maven,
-Architecture Layered (Controller → Service → Repository),
+Architecture Layered (Controller → Service → Repository)
 
 --------------------------------------------------------------------------------------
 Features :
