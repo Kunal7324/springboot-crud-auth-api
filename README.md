@@ -8,14 +8,14 @@ The application follows clean architecture principles with a layered design that
 Tech Stack used :
 -------------------------------------------------------------------------------
 
-Language Java 17
-Framework Spring Boot
-ORM Spring Data JPA (Hibernate)
-Database MySQL
-Validation Bean Validation (JSR-380)
-API Documentation Swagger (OpenAPI 3)
-Build Tool Maven
-Architecture Layered (Controller → Service → Repository)
+Language Java 17,
+Framework Spring Boot,
+ORM Spring Data JPA (Hibernate),
+Database MySQL,
+Validation Bean Validation (JSR-380),
+API Documentation Swagger (OpenAPI 3),
+Build Tool Maven,
+Architecture Layered (Controller → Service → Repository),
 
 --------------------------------------------------------------------------------------
 Features :
