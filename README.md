@@ -67,37 +67,38 @@ spring.jpa.properties.hibernate.format_sql=true
 springdoc.swagger-ui.path=/swagger-ui.html
 
 --------------------------------------------------------------------------------------------
-We used design patterns and best practices when we were making things.
-The design patterns we used are the things that people do over and over because they work well.
+We used design patterns and best practices.
+----------------------------------------------------------------------------------
+when we were making things the design patterns we used are the things that people do over and over because they work well.
 We also used practices which are the good ways of doing things that people have learned from their experiences.
 Design patterns and best practices help us make things that're good and that work very well.
 We made sure to follow the practices so that our things are easy to use and understand.
 The design patterns we used are things like making sure everything has a home and that things are easy to find.
 We also used practices, like testing our things many times to make sure they work correctly.
 Design patterns and best practices are very important when we are making things because they help us make things that're good and that people will like to use.
-1️⃣ Layered Architecture
+(1️) Layered Architecture
 Controller → Service → Repository
 Ensures loose coupling and clear responsibility
-2️⃣ Repository Pattern
+(2) Repository Pattern
 Implemented using JpaRepository
 Abstracts database logic from business logic
-3️⃣ Service Pattern
+(3️) Service Pattern
 Business logic isolated in Service layer
 Improves testability and maintainability
-4️⃣ Dependency Injection (DI)
+(4️) Dependency Injection (DI)
 Constructor-based injection
 Promotes immutability and easier testing
-5️⃣ Exception Handling Pattern
+(5️) Exception Handling Pattern
 Centralized error handling using @ControllerAdvice
 Clean and consistent error responses
-6️⃣ Validation Best Practices
+(6️) Validation Best Practices
 Declarative validation using annotations
 Reduces boilerplate code
-7️⃣ REST API Best Practices
+(7️) REST API Best Practices
 Proper HTTP methods
 Meaningful status codes
 Clean URI design
-8️⃣ Clean Code Principles
+(8️) Clean Code Principles
 Single Responsibility Principle (SRP)
 Maningful class and method names
 No business logic in controllers
