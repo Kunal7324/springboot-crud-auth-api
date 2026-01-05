@@ -32,9 +32,8 @@ Interactive API documentation using Swagger
 
 ---------------------------------------------------------------
 REST API Endpoints :
-HTTP Method Endpoint Description
 -------------------------------------------------------------------------------
-
+HTTP Method Endpoint Description
 To make a product I need to use the POST option, with the products section.
 This is how you create a product.
 You do this by going to the products section and using the POST option.
